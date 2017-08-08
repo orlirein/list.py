@@ -14,8 +14,8 @@ def findNum(list):
         i = (len(list)-1)/2
         print(i)
         if list[i] > input:
-            del list[5:10]
+            del list[4:9]
                 if list[i] > input:
-                    
+
         else:
-            del list [6:10]
+            del list [5:0]
